@@ -2,7 +2,7 @@
 using namespace std;
 class Instagram{
 	private:
-		int reels ;
+		int reels;
 	public:
 		 Instagram()
 		 {
