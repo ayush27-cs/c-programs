@@ -19,8 +19,8 @@ class Instagram{
 };
 int main()
 {
-	Instagram r;
-	r.create(2);
+	Instagram r1;
+	r1.create(2);
 	cout<<"Reels: "<<r.reelcreated();
 	return 0;
 }
