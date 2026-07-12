@@ -1,2 +1,2 @@
 #C++--Programs 
-starting of c++ and some basic example of oops concept
+starting of c++ and some basic example of OOPS concepts..
