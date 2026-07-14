@@ -11,7 +11,7 @@ class ATM{
 	private:
 		
 	    void enterPIN(){
-			cout<<"Pin entered succesfully"<<endl;
+			cout<<"Pin is entered succesfully"<<endl;
 		}
 		void dispenseCash(){
 			cout<<"Cash dispensed"<<endl;
