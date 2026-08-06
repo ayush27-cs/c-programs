@@ -1,6 +1,6 @@
 Some basic on C++
 Use of OOPS concepts which include:
-Encalpuslation 
+Encapsulation 
 Inheritance
 Abstraction 
 Polymorphism
