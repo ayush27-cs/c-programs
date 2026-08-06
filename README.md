@@ -1,7 +1,7 @@
 Some basic on C++
 Use of OOPS concepts which include:
-Encalpuslation
+Encalpuslation 
 Inheritance
-Abstraction
+Abstraction 
 Polymorphism
   
