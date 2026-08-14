@@ -4,4 +4,3 @@ Encapsulation
 Inheritance
 Abstraction 
 Polymorphism
-    
