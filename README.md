@@ -1,2 +1,2 @@
 Some basic on C++
-Use of OOPS concepts which include.
+Use of OOPS concepts...
